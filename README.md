@@ -1,1 +1,1 @@
-Demonstration fo various plotting techniques using GraphView Library
+Demonstration of various plotting techniques using GraphView Library
